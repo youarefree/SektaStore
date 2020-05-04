@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=WIN-HJ7HS4240QQ\\WEBSITE;Initial Catalog=sekta_db_test;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=Pizza123",
+  "RawDataSettings": {}
+}
